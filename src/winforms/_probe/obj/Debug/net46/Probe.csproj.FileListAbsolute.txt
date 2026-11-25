@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\bin\Debug\net46\Probe.exe.config
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\bin\Debug\net46\Probe.exe
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\bin\Debug\net46\Probe.pdb
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\obj\Debug\net46\Probe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\obj\Debug\net46\Probe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\obj\Debug\net46\Probe.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\obj\Debug\net46\Probe.AssemblyInfo.cs
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\obj\Debug\net46\Probe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\obj\Debug\net46\Probe.exe
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\_probe\obj\Debug\net46\Probe.pdb

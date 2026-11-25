@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\appsettings.json
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\StockQuery.WinForms.exe.config
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\StockQuery.WinForms.exe
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\StockQuery.WinForms.pdb
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.AssemblyInfo.cs
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQue.0DEA712D.Up2Date
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.exe
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.pdb
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.MainForm.resources
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\obj\Release\net46\StockQuery.WinForms.csproj.GenerateResource.cache

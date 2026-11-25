@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = StockQuery.WinForms
+build_property.ProjectDir = C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

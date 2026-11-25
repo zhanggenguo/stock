@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\publish\appsettings.json
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\publish\StockQuery.WinForms.exe
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\publish\StockQuery.WinForms.exe.config
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\publish\StockQuery.WinForms.pdb
+C:\Users\Admin\Desktop\股票分析软件\src\winforms\StockQuery.WinForms\bin\Release\net46\publish\Newtonsoft.Json.dll

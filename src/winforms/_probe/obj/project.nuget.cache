@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TPMwPEouG0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\股票分析软件\\src\\winforms\\_probe\\Probe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.3\\microsoft.netframework.referenceassemblies.net46.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

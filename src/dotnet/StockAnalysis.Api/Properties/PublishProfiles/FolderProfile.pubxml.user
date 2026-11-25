@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Admin\Desktop\股票分析软件\src\dotnet\StockAnalysis.Api\bin\Release\net10.0\publish\</_PublishTargetUrl>
+    <History>True|2026-11-25T16:22:48.1045306Z||;False|2026-11-26T00:20:01.8569258+08:00||;True|2026-11-25T23:41:45.1772864+08:00||;True|2026-11-25T23:18:54.5789436+08:00||;True|2026-11-25T22:57:37.5559252+08:00||;True|2026-11-25T21:55:23.9017885+08:00||;True|2026-11-25T21:49:01.3467759+08:00||;True|2026-11-25T21:23:18.6429015+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
